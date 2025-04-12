@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Ecstacy - The Best Undetected CS2 Cheat</title>
+  <meta name="description" content="At Ecstacy we provide the best Undetected CS2 Cheat! Our CS2 hack includes Aimbot, Wallhack, Triggerbot, Inventory Changer and much more. Download our CS2 Cheat today!">
+  <meta name="keywords" content="Undetected, CS2 Cheat, CS2 hack, Aimbot, Wallhack, Skin Changer">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="resources/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="resources/css/animate.css">
+  <link rel="stylesheet" href="resources/css/bootstrap.min.css">
+  <link rel="stylesheet" href="resources/css/style.css">
+  <link rel="stylesheet" href="resources/css/media.css">
+  <link rel="icon" type="image/x-icon" href="resources/images/bg-logo.png">
+  
+  <style>
+    /* Animierter, leicht aufgehellter Hintergrund */
+    body {
+      background: linear-gradient(45deg, #121212, #1a001a);
+      background-size: 400% 400%;
+      animation: gradientAnimation 15s ease infinite;
+      color: #b19cd9;
+      font-family: 'Readex Pro', sans-serif;
+    }
+    @keyframes gradientAnimation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    /* Links */
+    a, a:visited {
+      color: #b19cd9;
+      transition: all 0.3s ease;
+    }
+    a:hover, a:active {
+      color: #8a2be2;
+      text-shadow: 0 0 8px #8a2be2;
+    }
+    
+    /* Header, Footer und Buttons */
+    header, footer, .btn-see, .buy-btn, .sub-btn {
+      background-color: #1a001a;
+      border: 1px solid #b19cd9;
+    }
+    
+    /* Keine extremen Textanimationen – schlichte Farben */
+    h1, h2, h3, h4 {
+      color: #b19cd9;
+      /* Animationen entfernt */
+    }
+    
+    /* Buttons: Weißer Text, dezenter Glow */
+    .btn-see, .buy-btn, .sub-btn {
+      color: #fff;
+      box-shadow: 0 0 6px #8a2be2;
+      transition: box-shadow 0.3s ease;
+    }
+    .btn-see:hover, .buy-btn:hover, .sub-btn:hover {
+      box-shadow: 0 0 12px #8a2be2;
+    }
+    
+    /* Logo-Bilder */
+    .logo-box img, .off-logo {
+      filter: brightness(0.8) contrast(1.2) sepia(30%) hue-rotate(250deg);
+    }
+    
+    /* Header, Footer und Navigation */
+    header, footer, .offcanvas, .navbar-nav a {
+      background-color: #0d0010;
+    }
+    
+    /* Weitere Elemente */
+    .testimonial-box, .features-header, .choose-text, .footer-text {
+      color: #b19cd9;
+    }
+    
+    /* Anpassung der Swiper-Pfeile */
+    .swiper-button-next img, .swiper-button-prev img {
+      filter: brightness(0) saturate(100%) invert(75%) sepia(90%) saturate(400%) hue-rotate(280deg);
+    }
+  </style>
+</head>
+<body>
+  <div id="preloader">
+    <img src="resources/images/bg-logo.png" class="img-fluid" alt="bg logo">
+  </div>
+  <!-- header part start -->
+  <header class="header py-4 sticky_menu">
+    <div class="container">
+      <nav>
+        <div class="row">
+          <div class="col-sm-6 col-9">
+            <div class="logo-box">
+              <a href="index.html"><img src="resources/images/logo.png" class="img-fluid" alt="Ecstacy Logo"></a>
+            </div>
+          </div>
+          <div class="col-sm-6 col-3">
+            <div class="menu-box">
+              <li class="d-lg-inline-block d-none"><a href="forum/index.html">FORUMS</a></li>
+              <li class="ms-5 d-lg-inline-block d-none"><a href="forum/index0ff6.html?/subscriptions/" class="buy-btn d-lg-inline-block d-none">BUY NOW</a></li>
+              <!-- ============================= -->
+              <li class="navbar ms-sm-4">
+                <button class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                  <div class="offcanvas-header mb-4">
+                    <a href="index.html"><img src="resources/images/logo.png" class="img-fluid off-logo" alt="Ecstacy Logo"></a>
+                    <button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                  </div>
+                  <div class="offcanvas-body off-box">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 px-3">
+                      <li class="nav-item mb-3">
+                        <a href="index.html">HOME</a>
+                      </li>
+                      <li class="nav-item mb-3">
+                        <a href="visuals.html">VISUALS</a>
+                      </li>
+                      <li class="nav-item mb-3">
+                        <a href="aimbot.html">AIMBOT</a>
+                      </li>
+                      <li class="nav-item mb-3">
+                        <a href="modern-ui.html">MODERN UI</a>
+                      </li>
+                      <li class="nav-item mb-4 d-sm-none">
+                        <a href="forum/index.html">FORUMS</a>
+                      </li>
+                      <li class="nav-item mb-3 d-sm-none">
+                        <a href="forum/index0ff6.html?/subscriptions/" class="buy-btn">BUY NOW</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <!-- ============================= -->
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <!-- header part end -->
+  <main>
+    <!-- hero part start -->
+    <section class="hero py-5 wow fadeIn">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-7">
+            <div class="hero-content text-center pb-md-5">
+              <h1 class="mb-4"><span>The Best </span>CS2 Cheat</h1>
+              <p class="mb-5">Your Go-To Destination for a High-Quality, Affordable, and Undetected CS2 Cheat, backed by unparalleled support.</p>
+              <a href="#slider1" class="btn-see">SEE MORE</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- hero part end -->
+    <!-- features part start -->
+    <section class="features py-5 wow fadeIn">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="features-header text-center">
+              <h2 class="mb-md-5 mb-4 large-text">CS2 Cheat Features</h2>
+            </div>
+            <div class="features-card-box">
+              <!-- single features start -->
+              
+                <div class="single-features wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+                  <h3 class="mb-3">Eye-Catching Visuals</h3>
+                  <p>At Ecstacy, we know that visuals are a crucial component of legit cheats. That's why we've made them a top priority and offer fully customizable visuals to suit every user's creative needs.</p>
+                </div>
+              
+              <!-- single features end -->
+              <!-- single features start -->
+              
+                <div class="single-features wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+                  <h3 class="mb-3">Smooth Aimbot</h3>
+                  <p>Unlock your full potential in CS2 with Ecstacy's Customizable Legitbot – seamlessly designed to complement your unique playstyle with a wide array of advanced features.</p>
+                </div>
+             
+              <!-- single features end -->
+              <!-- single features start -->
+              
+                <div class="single-features wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".9s">
+                  <h3 class="mb-3">Modern UI</h3>
+                  <p>Ecstacy boasts a cutting-edge design with a visually appealing interface, complete with a dynamic chat box to facilitate effortless communication with active users.</p>
+                </div>
+              
+              <!-- single features end -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- features part end -->
+    <!-- image slider part start -->
+    <section id="slider1" class="img-slider py-5 wow fadeIn">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12">
+            <div class="img-slider-text mb-sm-5 mb-4 text-center">
+              <h2 class="mb-4 mt-lg-5 pt-lg-3 large-text">Our Easy-To-Use CS2 Cheat</h2>
+              <p>Experience our undetected cheat packed with customizable features</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-12">
+            <!-- Swiper -->
+            <div class="swiper mySwiper-1">
+              <div class="swiper-wrapper img-wrapper">
+                <div class="swiper-slide"><img src="resources/images/s-1.png" class="img-fluid" alt="slider"></div>
+                <div class="swiper-slide"><img src="resources/images/s-2.png" class="img-fluid" alt="slider"></div>
+                <div class="swiper-slide"><img src="resources/images/s-3.png" class="img-fluid" alt="slider"></div>
+                <div class="swiper-slide"><img src="resources/images/s-4.png" class="img-fluid" alt="slider"></div>
+                <div class="swiper-slide"><img src="resources/images/s-5.png" class="img-fluid" alt="slider"></div>
+              </div>
+            </div>
+            <!-- Swiper JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- image slider part end -->
+    <!-- video slider part start -->
+           <!-- subscription part start -->
+    <section class="subscription py-5 wow fadeIn">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <div class="subscrib-box text-center">
+              <h3 class="me-sm-4 me-3">View plans here</h3>
+              <a href="forum/subscriptions.html" class="sub-btn">SUBSCRIBE</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- subscription part end -->
+    <!-- why choose us part start -->
+    <section class="why-choose py-5 wow fadeIn">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="choose-text text-lg-start text-center mb-lg-0 mb-5">
+              <h2 class="mb-4">Why People Choose Us</h2>
+              <p class="mb-lg-4 mb-3">At Ecstacy, we provide an undetected CS2 cheat that serves as the ultimate gaming solution for players of all skill levels. Our CS2 hack features a wide range of functionalities including wallhack, aimbot, triggerbot, inventory changer, cloud radar and much more, all available at an affordable price.</p>
+              <p>Whether you're looking to improve your gameplay or simply have more fun, Ecstacy has you covered with our multi-purpose CS2 cheat.</p>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="choose-box ms-lg-3">
+              <p class="mb-3"><span class="dot"><img src="resources/images/dot.png" class="img-fluid" alt="dot icon"></span><span>Your safety is our top priority – our CS2 cheat has remained undetected thanks to advanced security measures.</span></p>
+              <p class="mb-3"><span class="dot"><img src="resources/images/dot.png" class="img-fluid" alt="dot icon"></span><span>Ecstacy is user-friendly, making it easy for new users to create custom configurations to fit their playstyle.</span></p>
+              <p class="mb-3"><span class="dot"><img src="resources/images/dot.png" class="img-fluid" alt="dot icon"></span><span>Our dedicated support staff is available 24/7 to ensure you receive prompt assistance whenever needed.</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- why choose us part end -->
+    <!-- testimonial part start -->
+    <section class="testimonial py-5 wow fadeIn">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-7">
+            <div class="testi-text text-center mb-2">
+              <h2 class="mb-4 large-text">Testimonials</h2>
+              <p>Read feedback from our customers and a message from the Owner of Ecstacy!</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="testimonial-box pt-sm-5 mt-2">
+              <!-- single testimonial start -->
+              <div class="single-tesimonial text-center mb-lg-0 mb-4 wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+                <p class="mb-4 mt-3 testi-p">
+                  <img src="resources/images/quote-1.png" class="img-fluid testi-img testi-img-1" alt="quote">
+                  I like the clean UI for a relatively cheap cheat, I really like some of the visuals and have not had low trust issues.
+                  <img src="resources/images/quote-2.png" class="img-fluid testi-img" alt="quote">
+                </p>
+                <h4>-Bullseye</h4>
+              </div>
+              <!-- single testimonial end -->
+              <!-- single testimonial start -->
+              <div class="single-tesimonial text-center mb-lg-0 mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
+                <p class="mb-4 mt-3 testi-p">
+                  <img src="resources/images/quote-1.png" class="img-fluid testi-img testi-img-1" alt="quote">
+                  At Ecstacy, we put the user first. We actively listen to community recommendations and strive to implement their ideas into our cheat, ensuring an exceptional experience!
+                  <img src="resources/images/quote-2.png" class="img-fluid testi-img" alt="quote">
+                </p>
+                <h4>-Owner</h4>
+              </div>
+              <!-- single testimonial end -->
+              <!-- single testimonial start -->
+              <div class="single-tesimonial text-center wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".9s">
+                <p class="mb-4 mt-3 testi-p">
+                  <img src="resources/images/quote-1.png" class="img-fluid testi-img testi-img-1" alt="quote">
+                  Clean, simple, and not hard to set up. For the price, fantastic! It has everything you need at an affordable price.
+                  <img src="resources/images/quote-2.png" class="img-fluid testi-img" alt="quote">
+                </p>
+                <h4>-Nelson</h4>
+              </div>
+              <!-- single testimonial end -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- testimonial part end -->
+    <!-- buy now part start -->
+    <section class="buy-now py-5 wow fadeIn">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <div class="buy-btn-box text-center">
+              <a href="forum/subscriptions.html" class="me-sm-3 me-1">BUY NOW</a>
+              <a href="forum/support.html">ASK A QUESTION</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- buy now part end -->
+  </main>
+  <!-- footer part start -->
+  <footer class="footer py-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="footer-text text-center">
+            <p>Copyright © 2023 Ecstacy</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer part end -->
+  <script src="resources/js/jquery.min.js"></script>
+  <script src="resources/js/wow.min.js"></script>
+  <script src="resources/js/swiper-bundle.min.js"></script>
+  <script src="resources/js/bootstrap.min.js"></script>
+  <script src="resources/js/script.js"></script>
+</body>
+<!-- Mirrored from ecstacy.fun/ by HTTrack Website Copier/3.x, angepasst -->
+</html>
